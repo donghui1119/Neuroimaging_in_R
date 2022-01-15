@@ -31,9 +31,9 @@ Visualiazation for Neuroimage
 <a href = "https://www.biorxiv.org/content/10.1101/2020.09.18.302935v1.full.pdf" > fsbrain: an R package for the visualization of
 structural neuroimaging data </a>
 
-< a href = "https://cloud.r-project.org/web/packages/threeBrain/index.html" > threeBrain </a>
+<a href = "https://cloud.r-project.org/web/packages/threeBrain/index.html" > threeBrain </a>
 
-< a href = "https://cwatson.github.io/files/brainGraph_UserGuide.pdf" >  brainGraph </a>
+<a href = "https://cwatson.github.io/files/brainGraph_UserGuide.pdf" >  brainGraph </a>
 
 
 
