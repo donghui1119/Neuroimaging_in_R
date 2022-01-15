@@ -11,7 +11,7 @@ FreeSurfer
 
 <a href = "https://cran.rstudio.com/web/packages/freesurferformats/index.html" >  freesurferformats: Read and Write 'FreeSurfer' Neuroimaging File Formats </a>;
 
-< a href = "https://cran.r-project.org/web/packages/freesurfer/">  freesurfer: Wrapper Functions for 'Freesurfer' </a>
+<a href = "https://cran.r-project.org/web/packages/freesurfer/">  freesurfer: Wrapper Functions for 'Freesurfer' </a>
 
 <a href = "https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html" > fsbrain: Managing and Visualizing Structural Neuroimaging Data in GNU R </a>
 
